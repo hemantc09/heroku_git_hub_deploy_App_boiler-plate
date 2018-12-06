@@ -1,0 +1,22 @@
+//rem 
+html {
+    font-size:  62.5%;
+    
+}
+
+body {
+    //properties are alphabetical order
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: $m-size;
+    background: whitesmoke;
+    
+}
+
+button {
+    //set button cursor to the pointer
+    cursor: pointer;
+}
+
+button:disabled {
+    cursor: default;
+}
