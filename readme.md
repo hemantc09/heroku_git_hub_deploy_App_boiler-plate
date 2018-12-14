@@ -27,4 +27,8 @@ Check my git hub repo here: https://lnkd.in/gnZ7tcR
 Note: above set up is all ready . You don't need to worry about any dependency for git hub and heroku if you follow exact steps
 I struggled and I found the perfect solution above for beginners.
 
+
+like and share with you new friends who wanna learn more :
+Linked in post: https://www.linkedin.com/feed/update/urn:li:activity:6479178050012610560/
+
 Question me and I will answer :)
