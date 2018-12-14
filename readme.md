@@ -2,6 +2,9 @@ Do you wanna build a react app and deploy on heroku live and stuck where to star
 
 Follow steps:
 
+download repo and save and go to that folder from command line: git@github.com:hemantc09/heroku_git_hub_deploy_App_boiler-plate.git
+
+
 I have created a simple boiler plate. It has,
 1. React Se
 2. Git hub set
